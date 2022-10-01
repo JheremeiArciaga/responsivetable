@@ -1,0 +1,22 @@
+body {
+      
+    background-image: linear-gradient(to right, #956cb1, #a77fd4, #ecabee, #b2eff3, #6aa8b9);
+  }
+  .container {
+    box-shadow: 0 0 15px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+  }
+  h1 {
+    text-align: center;
+    margin:80px 0px;
+    font-family: arial;
+    font-weight: 800;
+  }
+  .form-group {
+    margin:20px 0 ;
+  }
+  label {
+    margin-bottom: 5px;
+  }
